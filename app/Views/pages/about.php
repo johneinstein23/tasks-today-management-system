@@ -8,8 +8,8 @@
 
 <section class="content-card">
     <h2>About the developer</h2>
-    <p>This application was developed by <strong>Sison, John Einstein V.</strong> for IT0049 Web System Technologies.</p>
-    
+    <p>This application was developed by <strong>John Einstein Sison</strong> for IT0049 Web System Technologies.</p>
+    <p>It uses CodeIgniter 4 models to retrieve task and user records from a MySQL database.</p>
 </section>
 
 <?= $this->include('partials/foot') ?>
